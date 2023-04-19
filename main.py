@@ -40,6 +40,7 @@ host_name = socket.gethostname()
 host_ip = socket.gethostbyname(host_name)
 
 print("Doggy Terminal [Version: IN DEVELOPMENT]")
+print("Created by: DavidVideos")
 
 while True:
     # Az aktuális mappa és meghajtó megjelenítése
